@@ -1,0 +1,32 @@
+sebastianhartmann
+=================
+
+webeng 13/14
+@CHARSET "UTF-8";
+
+body{
+	background-color: #FCCF65;
+	
+}
+
+h1{
+	font-size: 40px;
+	font-color:#ADACA8;
+}
+
+td{
+font-size: 15px;
+background-color: #FFFFFF;
+border: 2px solid #000000;
+}
+
+th{
+	border: 2px solid #000000;
+	background-color:#FFFFFF;
+	font-family: Arial;
+	font-size: 30 px;
+	strong;
+	position: relativ;
+	text-align:left;
+}
+font-family: TimesNewRoman;
